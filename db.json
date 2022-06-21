@@ -1,0 +1,56 @@
+{
+  "news": [
+    {
+      "id": "907c6261-2fa6-4f85-a314-f66cb02a60cd",
+      "name": "Sport Transfer",
+      "description": "#Rasman. Karlos Teves \"Rosario Sentral\" jamoasining yangi bosh murabbiyi. Shartnoma 2023-yilga qadar amal qiladi.💥",
+      "category": "sport news"
+    },
+    {
+      "id": "8cb27d45-6eaf-4580-8630-f8e56c1045e4",
+      "name": "Sport NEws",
+      "description": "Beyl, Isko, Marselo ortidan “Real”ni yana 2 muhim futbolchi tark etishi mumkin",
+      "category": "sport news"
+    },
+    {
+      "id": "3671c105-8855-4994-899d-707fb7dfbf8e",
+      "name": "Qalampir.uz",
+      "description": "Виночиликдан логистикагача. Мирзиёев ва Алиев тор доирадаги учрашувда нималар ҳақида гаплашди?",
+      "category": "hot news"
+    },
+    {
+      "id": "499bb349-d657-4bf3-8bb0-e3caecdca31e",
+      "name": "Qalampir.uz",
+      "description": "Жиззахда “Лада” уриб юборган пиёда вафот этди",
+      "category": "hot news"
+    },
+    {
+      "id": "ca37ab0c-5b3b-4c9b-8bf8-4da7c228691c",
+      "name": "Qalampir.uz World News",
+      "description": "Германия Украинага қандай қуроллар совға қилмоқчилиги маълум бўлди",
+      "category": "world news"
+    }
+  ],
+  "filter": [
+    {
+      "name": "all",
+      "label": "All",
+      "className": "btn-outline-dark"
+    },
+    {
+      "name": "hot news",
+      "label": "Hot news",
+      "className": "btn-danger"
+    },
+    {
+      "name": "sport news",
+      "label": "Sport news",
+      "className": "btn-primary"
+    },
+    {
+      "name": "world news",
+      "label": "World news",
+      "className": "btn-success"
+    }
+  ]
+}
